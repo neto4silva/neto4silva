@@ -2,7 +2,7 @@
 <img align="center" style="margin-bottom:100px" width=100% src="https://github.com/neto4silva/neto4silva/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" />
 &nbsp;&nbsp;&nbsp;
 
-<p align="center">I ❤️ solve great challenges using tech. <br><br> frontend development using Vue.js, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions.</p>&nbsp;
+<p align="center">I ❤️ solve great challenges using tech. <br><br> Frontend development using Vue.js, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=neto4silva&theme=radical&mode=weekly" />
