@@ -30,6 +30,7 @@
 
 ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)&nbsp;
 ![Kubernetes](https://img.shields.io/badge/kubernetes-4285F4?style=for-the-badge&logo=kubernetes&logoColor=white)&nbsp;
+![VUEJS](https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)&nbsp;
 
 #### Databases:
 
@@ -53,7 +54,6 @@
 </a>
 <a href = "mailto:contato.neto4silva@outlook.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/delci-alves-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
-<a href="https://medium.com/@neto4silva" target="_blank"><img src="https://img.shields.io/badge/-Medium-%23000000?style=for-the-badge&logo=medium&logoColor=white"  target="_blank"></a> 
 </div>&nbsp;&nbsp;
  
 
